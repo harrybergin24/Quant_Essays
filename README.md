@@ -1,2 +1,5 @@
 # Maths-Papers
-This is a collection of papers I have written on mathematical concepts I find interesting
+
+- Black Scholes to the heat equation
+- Estimating implied probabiltes in option prices
+- 
