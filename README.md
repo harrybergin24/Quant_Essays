@@ -1,6 +1,7 @@
-# Maths-Papers
+# Quantitative Finance and Mathematics Essays 
 
-- Black Scholes to the heat equation
-- Estimating implied probabiltes in option prices
-- delta hedged pnl equation
-- reporduce the results of a few papers
+In this file it contains essays I have written on topics in Quantitative Finance and pure mathematics.
+
+
+Current Essays:
+- [Estimating Implied Probabilities Within Option Prices]
